@@ -2,14 +2,12 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    
+<head>    
     <meta charset="UTF-8">
     <title>Tech4me Doces</title>
 </head>
 <body>
     <header>
-        
         <h1>Bem-vindo à Tech4me Loja de Doces</h1>
     </header>
             <h2>Biscoitos</h2>
@@ -22,7 +20,6 @@
             <li>Polvilho</li>
             <li>Clube social</li>
         </ul>
-
         <h2>Bombons Recheados</h2>
         <p>
             Explore nossa seleção de bombons recheados, incluindo trufas de chocolate, caramelo e avelã. Cada mordida é uma experiência celestial.
@@ -65,7 +62,6 @@
         </ul>
 </body>
 </html>
-
             <li>Bala de banana</li>
         </ul>
 </body>
