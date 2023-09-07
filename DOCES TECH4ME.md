@@ -3,13 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
     <meta charset="UTF-8">
     <title>Tech4me Doces</title>
 </head>
 <body>
     <header>
-        
         <h1>Bem-vindo à Tech4me Loja de Doces</h1>
     </header>
             <h2>Biscoitos</h2>
@@ -66,7 +64,3 @@
 </body>
 </html>
 
-            <li>Bala de banana</li>
-        </ul>
-</body>
-</html>
