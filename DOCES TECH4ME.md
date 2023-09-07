@@ -1,10 +1,5 @@
 ![Captura da Web_7-9-2023_13236_](https://github.com/sudovic/volt/assets/144363751/1aca33f9-f2a0-480d-838a-859b7639fbfc)
 
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,9 +7,7 @@
     <title>Tech4me Doces</title>
 </head>
 <body>
-    <header>
         <h1>Bem-vindo à Tech4me Loja de Doces</h1>
-    </header>
             <h2>Biscoitos</h2>
         <p>
             Temos uma variedade deliciosa de biscoitos, desde os tradicionais biscoitos de chocolate até biscoitos de aveia com passas.
@@ -25,7 +18,6 @@
             <li>Polvilho</li>
             <li>Clube social</li>
         </ul>
-
         <h2>Bombons Recheados</h2>
         <p>
             Explore nossa seleção de bombons recheados, incluindo trufas de chocolate, caramelo e avelã. Cada mordida é uma experiência celestial.
