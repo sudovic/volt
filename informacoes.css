@@ -1,0 +1,63 @@
+body {
+    background-color: #972929;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.primeiraletra::first-letter {
+    color: orangered;
+
+}
+
+h2 {
+    color: orangered;
+}
+
+.prato {
+    
+    margin: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    transition: transform 0.3s;
+    flex: 1;
+    max-width: 500px;
+}
+
+.prato:hover {
+    transform: scale(1.05);
+}
+
+.imagem-prato {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.descricao {
+    margin-top: 10px;
+    font-size: large;
+}
+
+.botao-pedir {
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.seta {
+    display: inline-block;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+

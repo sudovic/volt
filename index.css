@@ -1,0 +1,45 @@
+
+.home {
+    margin: 0;
+    padding: 0;
+    background-image: url('restaurante2.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+    ;
+}
+
+.marca {
+    font-size: 100px; 
+    color: black;
+    text-shadow: 3px 3px 10px white;
+    }
+
+.marca::first-letter {
+    color: orangered;
+
+}
+
+
+.button {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    background-color: orangered;
+    text-decoration: none;
+        
+}
+
+a {
+    text-decoration: none; 
+    color: #fff; 
+}
+
+
+

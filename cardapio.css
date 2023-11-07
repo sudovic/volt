@@ -1,0 +1,131 @@
+body {
+    font-family: Cambria, Cochin, Arial, Helvetica, sans-serif;
+    background-color: #972929;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+.nome {
+   
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold; 
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.menu-item {
+    margin: 10px;
+    width: 26.33%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.menu-item img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.description {
+    background-color: #972929;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.description p {
+    margin: 0;
+}
+
+
+
+
+.home {
+    margin: 0;
+    padding: 0;
+    background-image: url('restaurante2.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+    ;
+}
+
+.marca {
+    font-size: 100px; 
+    color: black;
+    text-shadow: 3px 3px 10px white;
+    }
+
+.marca::first-letter {
+    color: orangered;
+
+}
+
+
+.button {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    background-color: orangered;
+    text-decoration: none;
+        
+}
+.button_info {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #972929;
+    text-decoration: none;
+    border-color: white;
+
+}
+
+nav {
+    background-color: #333; 
+    text-align: center; 
+}
+
+ul {
+    list-style: none; 
+    padding: 0;
+}
+
+li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+a {
+    text-decoration: none; 
+    color: #fff; 
+}
+
+.primeiraletra:first-letter {
+    color: orangered;
+}
+
